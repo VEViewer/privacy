@@ -1,7 +1,7 @@
-VEViewer Privacy Policy
+VUEScope Privacy Policy
 Creation date September 25, 2024
 
-This privacy policy applies to the VEViewer app.
+This privacy policy applies to the VUEScope app.
 
 1. Explanation of permissions
 Photo album: When viewing thermal camera images, you can save the camera and recorded video to local storage or export the thermal camera file to local storage.
