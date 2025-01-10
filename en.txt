@@ -12,11 +12,11 @@ The Application does not gather information about the location of your mobile de
 
 3. How use information
 Provide services: Ensure that the functions of the application work properly and personalize the settings according to the user's needs.
-Improve products and services: optimize our application experience and functionality based on user feedback and usage data.
+Improve products and services: optimize application experience and functionality based on user feedback and usage data.
 
 4. How share information
 App do not sell, rent, or disclose your personal information to third parties.
 
 5.Data storage and protection
-Data Storage: App store your data on our servers in Virginia(America) and the period of time for which the data is stored will depend the app terminating the update.
-Data Security: App take reasonable technical and administrative measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, due to the inherent limitations of the Internet, app cannot guarantee the absolute security of information despite our best efforts to protect it.
+Data Storage: App store your data on the server in Virginia(America) and the period of time for which the data is stored will depend the app terminating the update.
+Data Security: App take reasonable technical and administrative measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction. However, due to the inherent limitations of the Internet, app cannot guarantee the absolute security of information despite best efforts to protect it.
